@@ -1,0 +1,136 @@
+@media screen and (min-width:320px)and (max-width:570px)
+{
+    .dropdown {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .contact-form
+    {
+        padding: 0;
+        margin-top: 20px;
+        padding: 40px 20px;
+    }
+    .contact_section
+    {
+        padding: 4rem 0;
+    }
+    .contact
+    {
+      padding: 3rem 0 0 0;
+    }
+}
+
+/* signup page media queries starts */
+
+
+@media screen and (min-width:320px) and (max-width:570px)
+{
+    .create_account
+    {
+        padding: 3rem 0rem 3rem 0rem;
+    }
+    .create_form {
+        padding: 20px;
+        text-align: center;
+    }
+    .createbtn a
+    {
+        padding: 16px 74px;
+    }
+    .sign a{
+        padding: 16px 2rem;
+    }
+    .creates h1
+    {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width:571px) and (max-width:720px)
+{
+    .create_account
+    {
+        padding: 3rem 0rem 3rem 0rem;
+    }
+    .create_form {
+        padding: 20px;
+        text-align: center;
+    }
+    .createbtn a
+    {
+        padding: 16px 74px;
+    }
+    /* .sign a{
+        padding: 16px 2rem;
+    } */
+    .creates h1
+    {
+        font-size: 1.5rem;
+    }
+}
+
+/* login page media queries------------ */
+
+@media screen and (min-width:320px)and (max-width:570px)
+{
+    /* .d-flex
+    {
+        display: block;
+    } */
+}
+@media screen and (min-width:571px) and (max-width:762px)
+{
+    .create_account {
+        padding: 0rem 0rem 6rem 0rem;
+    }
+}
+
+/* ------------------------------------ */
+
+/* about section starts---------- */
+
+@media screen and (min-width:320px)and (max-width:570px)
+{
+    .about
+    {
+        padding: 3rem 0 3rem 0;
+    }
+    .our_story
+    {
+        padding: 3rem 0 3rem 0;
+        text-align: center;
+    }
+}
+@media screen and (min-width:571px) and (max-width:762px)
+{
+    .about
+    {
+        padding: 3rem 0 3rem 0;
+    }
+    .our_story
+    {
+        padding: 3rem 0 3rem 0;
+        text-align: center;
+    } 
+}
+
+/* homepage mediaqueries */
+
+
+@media screen and (min-width:320px) and (max-width:570px)
+{
+    .tab-slider .d-flex{
+        display: block !important;
+    }
+    .flash_sale_parent {
+        margin: 2rem 0;
+    }
+}
+.phone
+{
+    margin-top: 20px;
+}
+.product_gap
+{
+    padding: 0;
+}
